@@ -1,0 +1,31 @@
+body {
+	margin: 0;
+}
+
+#header {
+	background-color: #ffffff;
+}
+
+#header .back-button a {
+	text-decoration: none;
+	color: #666666;
+}
+
+#header .project-name a {
+	text-decoration: none;
+	color: #666666;
+	margin-left: 20px;
+}
+
+#header .nav-bar {
+	display: inline-block;
+}
+
+.nav-bar .elements {
+	display: inline;
+}
+
+.nav-bar .elements a {
+	text-decoration: none;
+}
+
